@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VZXKCW\\source\\local\\dealeron-challenge\\DealerOn Challenge\\DealerOn Challenge.csproj",
-      "projectName": "DealerOn Challenge",
-      "projectPath": "C:\\Users\\VZXKCW\\source\\local\\dealeron-challenge\\DealerOn Challenge\\DealerOn Challenge.csproj",
+      "projectUniqueName": "C:\\Users\\VZXKCW\\source\\local\\dealeron-challenge\\DealerOn Challenge\\DealerOnChallenge.csproj",
+      "projectName": "DealerOnChallenge",
+      "projectPath": "C:\\Users\\VZXKCW\\source\\local\\dealeron-challenge\\DealerOn Challenge\\DealerOnChallenge.csproj",
       "packagesPath": "C:\\Users\\VZXKCW\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\VZXKCW\\source\\local\\dealeron-challenge\\DealerOn Challenge\\obj\\",
       "projectStyle": "PackageReference",

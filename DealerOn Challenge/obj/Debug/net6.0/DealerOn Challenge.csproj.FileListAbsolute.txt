@@ -1,0 +1,15 @@
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\bin\Debug\net6.0\DealerOn Challenge.exe
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\bin\Debug\net6.0\DealerOn Challenge.deps.json
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\bin\Debug\net6.0\DealerOn Challenge.runtimeconfig.json
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\bin\Debug\net6.0\DealerOn Challenge.dll
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\bin\Debug\net6.0\DealerOn Challenge.pdb
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.csproj.AssemblyReference.cache
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.AssemblyInfoInputs.cache
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.AssemblyInfo.cs
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.csproj.CoreCompileInputs.cache
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.dll
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\refint\DealerOn Challenge.dll
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.pdb
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\DealerOn Challenge.genruntimeconfig.cache
+C:\Users\VZXKCW\source\local\dealeron-challenge\DealerOn Challenge\obj\Debug\net6.0\ref\DealerOn Challenge.dll
