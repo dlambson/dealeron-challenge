@@ -8,6 +8,16 @@ using System.Windows.Markup;
 
 namespace DealerOnChallenge {
 
+    /*
+     * Create a list of strings based on the user input (each item entry is a separate string)
+     * Go through each string and parse it using regex to get the individual values
+     * Assign those values to an item object and add the object to a list of items.
+     * IsTaxExempt is based on terms found in an array and is used as reference to determine in the name if it is exempt or not
+     * IsImported is based on if the name contains the word "Imported"
+     * Once the item list is constructed, the tax calculations and totals are assigned in the remaining fields.
+     * Output the calculations and the rest of the items in the required format
+     */
+
     public class Program
     {
         // this will contain terms that will determine if an item is tax exempt or not
