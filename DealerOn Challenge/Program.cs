@@ -1,10 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DealerOn_Challenge;
-using System;
-using System.Runtime.CompilerServices;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Windows.Markup;
 
 namespace DealerOnChallenge {
 
